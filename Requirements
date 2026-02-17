@@ -1,0 +1,12 @@
+Definição da Stack Tecnológica:
+Para a v0.1:
+- Python 3.11
+- NumPy
+- SciPy
+- Matplotlib
+- scikit-learn
+- tqdm
+- joblib (paralelização simples)
+
+Evitaremos GPU a princípio. Primeiro validamos a metodologia.
+
